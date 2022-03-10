@@ -1,0 +1,160 @@
+           /*body start*/
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #0f2656;
+	margin: 0;
+	padding: 0;
+}
+		      /*header start*/
+header {
+	border-bottom: 2px solid #eef0f3;
+}
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo {
+	width: 10%;
+	float: left;
+}
+.logo img {
+	width: 100%;
+}
+.menu {
+	padding:13px 0 ;
+	width: 60%;
+	float: right;
+}
+.menu ul {
+	float: right;
+}
+.menu ul li {
+	float: left;
+	list-style: none;
+
+}
+.menu ul li a {
+	font-size: 18px;
+	color: #0f2656;
+	float: left;
+	text-decoration: none;
+	margin-right: 25px;
+	transition: .3s;
+}
+.menu ul li:last-child a {
+	margin-right: 0;
+}
+.menu ul li a:hover {
+	color: #008aff;
+}
+
+				/*banner start*/
+.banner {
+}
+.container {
+	width: 60%;
+	margin: 0 auto;
+	padding:50px 0 ;
+	text-align: center;
+}
+.b_text {
+}
+.b_text h1 {
+	font-size: 50px;
+
+}
+
+
+.b_text p {
+	line-height: 26px;
+}
+.image {
+	width: 68%;
+	text-align: center;
+	margin: 0 auto;
+}
+.image img {
+	width: 100%;
+}
+
+				/*paragraph start*/
+.text {
+	width: 60%;
+	margin: 0 auto;
+	overflow: hidden;
+
+}
+.side {
+	padding-top: 22px;
+	width: 49%;
+	float: left;
+	text-align: right;
+}
+.k3 {
+	font-size: 50px;
+	color: #f15767;
+}
+.side p {
+	line-height: 26px;
+}
+.only {
+	width: 49%;
+	float: right;
+
+}
+.only h1 {
+
+	font-size: 50px;
+
+}
+
+
+		/*services start*/
+
+.services {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 25px 10px;
+	text-align: center;
+}
+.first {
+	 width: 27.333%;
+    min-height: 426px;
+    background-color: #fdebed;
+    float: left;
+    padding: 25px;
+    margin: 25px;
+}
+
+.second {
+	width: 27.333%;
+	min-height: 426px;
+	background-color: #ebf9f4;
+	float: left;
+	padding: 25px;
+	margin: 25px;
+}		
+.third {
+	width: 27.333%;
+	min-height: 426px;
+	background-color: #fff7e8;
+	float: left;
+	padding: 25px ;
+	margin: 25px ;
+}
+
+				/*footer*/
+.foot {
+	height: 50px;
+	padding: 25px;
+
+	background-color: #008aff;
+}
+.foot p {
+	color: antiquewhite;
+	text-align: center;
+}
